@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1821
     wikipedia: http://en.wikipedia.org/wiki/James_E._Talmage
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42238#The-Articles-of-FaithChurch-of-Jesus-Christ-of-Latter-Day-Saints
 gutenberg_bookshelf: Latter Day Saints
 gutenberg_issued: '2013-03-01'
 gutenberg_type: Text
